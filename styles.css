@@ -91,6 +91,14 @@ header .profile-image:hover {
   background-size: cover;
   overflow: hidden;
 }
+
+.projects-header {
+  text-align: center;
+  background: url('images/project-laptop.jpeg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+}
+
 .tag {
   background-color: #efefef;
   color: black;
